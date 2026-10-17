@@ -1,0 +1,26 @@
+# Extra phrases flagged by `deslop.py --voice reetish`, from the reetish-voice-content skill.
+# One phrase per line, matched case-insensitively as whole words. Lines starting with # are ignored.
+# --voice reetish also flags every em dash.
+unlock your potential
+take your career to the next level
+leverage
+empower
+transform
+comprehensive
+tailored solutions
+as a seasoned professional
+i would be delighted to
+i'd be happy to assist
+in today's competitive landscape
+whether you're
+here's the thing
+let that sink in
+the truth is
+and that's exactly why
+at the end of the day
+most people don't realize
+the biggest mistake
+nobody talks about
+unpopular opinion
+let me tell you why
+in today's world

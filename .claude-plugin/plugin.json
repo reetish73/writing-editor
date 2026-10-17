@@ -1,0 +1,10 @@
+{
+  "name": "writing-editor",
+  "version": "0.1.0",
+  "description": "Write and edit prose without AI tells, in Reetish's voice or a given writer's voice, with an optional advisory checker.",
+  "author": {
+    "name": "Reetish"
+  },
+  "repository": "https://github.com/reetish73/writing-editor",
+  "skills": "./skills"
+}
