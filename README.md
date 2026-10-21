@@ -1,6 +1,6 @@
 # writing-editor
 
-Write and edit prose without AI tells, in your own voice. Private plugin, installed through [reetish-marketplace](https://github.com/nofomojustfafo/reetish-marketplace).
+Write and edit prose without AI tells, in your own voice. Private plugin, installed through [reetish-marketplace](https://github.com/reetish73/reetish-marketplace).
 
 ## What's inside
 
@@ -15,7 +15,7 @@ One skill, `humanizer`, that fires when you draft or edit posts, captions, scrip
 ## Install and update (Claude Code)
 
 ```bash
-claude plugin marketplace add nofomojustfafo/reetish-marketplace
+claude plugin marketplace add reetish73/reetish-marketplace
 claude plugin install writing-editor@reetish-marketplace
 ```
 
